@@ -4,4 +4,4 @@
 
 not>portapkg geliştirme sürecindedir ve belirli bir çıkış tarihi yoktur!
 
-not>bu depoda manifests.xml atılacaktır,böylece diğer kütüphanelere de ayrı olarak ulaşılması kolay olucaktır.
+not>bu depoda manifests.xml ve makefile yayınlanıcaktır,böylece diğer kütüphanelere de ayrı olarak ulaşılması kolay olucaktır.
